@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000/api'; // Adjust if backend URL differs
+const API_BASE_URL = 'https://eloquence-bot-backend-production.up.railway.app/api'; // Adjust if backend URL differs
 
 
 export const getQuotesByCategory = async (category, limit = 5) => {
