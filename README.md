@@ -2,6 +2,8 @@
 
 Eloquence Bot is an AI-powered **quote recommendation website** that provides users with inspirational quotes based on various moods or categories like **motivational**, **romantic**, **funny**, **epic**, **stoic**, and **gamery**. The bot uses **natural language processing** to understand user inputs and provide contextually relevant quotes.
 
+This repository contains the frontend codes. Link to the backend repository : https://github.com/tanveerTFF/eloquence-bot-backend.git
+
 You can visit the live version of the site here: [**Eloquence Bot**](https://eloquence-bot.vercel.app)
 
 ---
